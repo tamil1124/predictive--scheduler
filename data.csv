@@ -1,0 +1,11 @@
+Job_ID,Machine_ID,Processing_Time,Priority,Due_Date,Status
+J101,M1,3,High,2026-07-01,On Time
+J102,M2,2,Medium,2026-07-01,On Time
+J103,M3,5,Low,2026-07-02,Delayed
+J104,M1,4,High,2026-07-02,On Time
+J105,M2,6,Low,2026-07-03,Delayed
+J106,M3,3,Medium,2026-07-03,On Time
+J107,M1,5,High,2026-07-04,Delayed
+J108,M2,2,Medium,2026-07-04,On Time
+J109,M3,4,Low,2026-07-05,Delayed
+J110,M1,3,High,2026-07-05,On Time
